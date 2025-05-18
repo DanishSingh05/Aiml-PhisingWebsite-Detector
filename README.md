@@ -133,16 +133,6 @@ weighted avg       0.93      0.93      0.93      2764
 THIS WEBSITE IS A PHISHING WEBSITE.
 ******************************
 
-[1]
-
-THIS WEBSITE IS A LEGITIMATE WEBSITE.
-
-
-## 10. RESULT:
-
-
-https://github.com/Tanwar-12/PHISHING-WEBSITE-DETECTION/assets/110081008/e0e9f540-9b4c-4a6a-af18-9b69ef1b59e3
-
 
 
 
